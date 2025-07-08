@@ -1,2 +1,2 @@
 # headlineherald
-simple new type shi
+simple news type shi
